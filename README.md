@@ -1,0 +1,6 @@
+# AI
+こちらは日経平均株価データから売買判断をするAIに関するコードです。
+すべてgoogleColaboratoryで作成しています。
+ProcessData_py.ipynbでは日経平均株価を取得、加工しています。
+deep_rl_trader_STOCK_py.ipynbはlstmを使って売買判断をするコードです。
+DPPO_stock.ipynbはPPOを使って売買判断をするコードです。
